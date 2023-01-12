@@ -19,5 +19,9 @@
 
 ---
 
+    <img src="assets/image/blue_marble_apollo_17.jpg" width="100%" height="100%" alt="The Blue Marble, taken by the Apollo 17 crew in 1972.">
+
+--
+
 
 **Meta Marble** is an open-source project initiated by **[Geoid](https://www.geoid.org "Geoid website")**, in collaboration with **[Starling Associates](https://www.starling.associates "Starling Associates website")** and **[Scape Agency](https://www.scape.agency "Scape Agency website")**.
