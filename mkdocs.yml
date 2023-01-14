@@ -28,9 +28,9 @@ extra_templates:
 
 extra:
   generator: false
-  # analytics:
-  #   provider: google
-  #   property: G-1Z88Q4WE1C
+  analytics:
+    provider: google
+    property: G-Y533KG4MT4
   social:
     - icon: fontawesome/solid/globe 
       link: https://www.geoid.org
@@ -48,9 +48,7 @@ copyright: Copyright &copy; 2023 Geoid
 hide:
   - footer
 
-
-
-
+# Page tree
 nav:
   - Introduction: 'index.md'
   - Resources:
